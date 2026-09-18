@@ -6,8 +6,8 @@
 
 ## Ссылки
 
-- Публичная страница: `https://sunpole.github.io/001-print-operations-calculator/`
-- Исходный код: `https://github.com/sunpole/001-print-operations-calculator`
+- Публичная страница: `https://sunpole.github.io/260001-print-operations-calculator/`
+- Исходный код: `https://github.com/sunpole/260001-print-operations-calculator`
 - Карточка в SUNPOLE HUB: будет ссылаться на этот репозиторий после отдельного PR.
 
 ## Запуск
@@ -17,7 +17,7 @@
 
 ## Версия
 
-Текущая версия — `0.1.0`. История изменений ведётся в `CHANGELOG.md`.
+Текущая версия — `0.1.1`. История изменений ведётся в `CHANGELOG.md`.
 
 ## Состав
 
