@@ -2,7 +2,7 @@
   "id": "260001",
   "slug": "print-operations-calculator",
   "name": "Калькулятор полиграфических операций",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "visibility": "public",
   "repository": "https://github.com/sunpole/260001-print-operations-calculator",
   "pages": "https://sunpole.github.io/260001-print-operations-calculator/",
